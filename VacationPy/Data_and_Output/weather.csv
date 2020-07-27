@@ -1,502 +1,502 @@
 City,Country,Lat,Long,Temp,Humidity,%Cloud,Wind_Speed,Hemisphere
-dulce grande,mx,23.4029,-102.0946,17,82,75,4.6,Northern
-jamestown,sh,-19.9396,-11.647,17.3,75,70,7.47,Southern
-rikitea,pf,-75.659,-123.715,20.28,76,0,8.7,Southern
-punta arenas,cl,-77.583,-106.5786,1.83,91,100,5.7,Southern
-jalingo,ng,8.9629,10.7497,22.69,90,91,0.8,Northern
-jubbal,in,31.0694,77.726,18.23,82,55,0.8,Northern
-mount gambier,au,-45.6215,133.9392,11,76,90,2.6,Southern
-porto novo,cv,13.1907,-35.9354,26,78,40,5.1,Northern
-lebu,cl,-37.6209,-94.7115,8.86,78,100,4.96,Southern
-kaitangata,nz,-67.3053,179.3325,11.11,60,100,7.15,Southern
-hamilton,bm,28.9771,-63.9376,26.81,69,5,2.6,Northern
-svetlaya,ru,47.623,138.0874,17.35,73,53,2.53,Northern
-coari,br,-2.825,-63.3495,24.56,81,5,0.8,Southern
-kavieng,pg,15.1713,154.1656,30.32,67,17,4.38,Northern
-cape town,za,-58.5728,-7.496,10.24,62,0,1.5,Southern
-avarua,ck,-43.601,-167.3989,23,73,100,3.6,Southern
-port elizabeth,za,-47.5789,28.2482,12,27,0,1.0,Southern
-bluff,nz,-70.4953,156.817,10.53,79,100,7.62,Southern
-sakakah,sa,29.0129,42.8145,30,23,0,6.2,Northern
-benguela,ao,-11.1588,8.8009,19.48,82,10,1.37,Southern
-hilo,us,32.5003,-143.5198,25.14,78,90,2.94,Northern
-ushuaia,ar,-74.462,-27.307,0,94,90,10.8,Southern
-omaha,us,41.8109,-95.945,30.82,59,75,8.2,Northern
-khatanga,ru,88.2073,106.2654,6.95,81,97,6.36,Northern
-albany,au,-82.8846,116.7591,11,76,100,3.1,Southern
-okhotsk,ru,58.6391,144.3043,17.06,58,34,4.96,Northern
-hedaru,tz,-4.5193,37.5669,15.38,90,100,2.22,Southern
-haines junction,ca,56.0469,-143.4736,14.74,52,89,4.58,Northern
-laguna,br,-36.0997,-40.9982,18.84,83,70,5.23,Southern
-tupik,ru,55.4612,120.0667,22.83,62,61,1.94,Northern
-vaini,to,-30.5691,-171.9948,24,83,75,5.7,Southern
-mariental,na,-24.6625,17.6198,9.01,52,0,5.12,Southern
-dikson,ru,84.812,73.2743,5.45,96,100,7.07,Northern
-le port,re,-18.6217,54.4157,12.1,59,30,10.8,Southern
-dong hoi,vn,18.7591,107.6208,32.23,55,0,1.0,Northern
-ponta do sol,cv,17.0549,-40.9384,26,78,40,5.1,Northern
-ugoofaaru,mv,5.9019,69.0491,28.02,76,69,6.82,Northern
-kapaa,us,15.6062,-167.0985,27.55,74,20,8.2,Northern
-linhares,br,-20.2007,-36.7914,18.35,92,0,0.64,Southern
-aguimes,es,24.8727,-13.4797,21.6,78,20,13.9,Northern
-norman wells,ca,83.2709,-117.6604,23,31,20,3.1,Northern
-leningradskiy,ru,73.7946,179.0522,10.88,61,57,5.03,Northern
-hithadhoo,mv,-13.9353,70.0486,26.12,82,100,5.24,Southern
-faanui,pf,-1.648,-158.9237,25.3,76,98,7.94,Southern
-georgetown,sh,-20.8322,-22.9685,23.95,73,16,8.36,Southern
-yulara,au,-29.2625,130.783,12,50,0,4.6,Southern
-yellowknife,ca,76.6879,-107.7882,15.28,87,75,4.6,Northern
-bilma,ne,18.216,11.9347,28.94,17,25,1.85,Northern
-ridgecrest,us,36.9719,-117.4772,35.18,6,20,3.1,Northern
-east london,za,-40.3108,33.2328,18.21,26,0,2.35,Southern
-inuvik,ca,67.2698,-131.0169,20,42,75,3.1,Northern
-bredasdorp,za,-42.3016,21.3094,6,87,0,1.5,Southern
-carnarvon,au,-19.492,109.7165,23,27,0,3.6,Southern
-hermanus,za,-85.2855,-6.0466,15.32,55,0,0.92,Southern
-castro,cl,-42.7458,-86.983,8.01,100,90,4.6,Southern
-lagoa,pt,44.4221,-32.0424,20.99,81,0,5.31,Northern
-tuktoyaktuk,ca,81.303,-138.9884,17,63,75,2.1,Northern
-lamar,us,39.2795,-102.0319,29.09,66,1,3.6,Northern
-kodiak,us,40.3866,-155.7391,16,72,90,1.5,Northern
-paita,pe,-7.132,-84.0161,17.27,85,12,6.85,Southern
-comodoro rivadavia,ar,-46.4044,-67.6493,6,60,95,8.2,Southern
-port lincoln,au,-34.6461,136.6927,14.06,74,0,1.82,Southern
-hokitika,nz,-41.9025,168.5115,11.24,70,15,1.15,Southern
-saint-philippe,re,-60.0083,67.8083,12.29,68,90,7.2,Southern
-camabatela,ao,-8.7069,15.7893,12.14,85,87,0.76,Southern
-new norfolk,au,-78.5594,131.3069,9.76,79,100,0.9,Southern
-mahebourg,mu,-49.1376,77.6323,19,68,75,6.7,Southern
-isangel,vu,-16.0555,176.4896,28,69,75,5.7,Southern
-vostok,ru,51.2394,146.9166,20.94,78,69,1.17,Northern
-marevo,ru,57.4228,32.3086,13.12,73,90,2.91,Northern
-busselton,au,-41.8047,111.6729,15.51,51,98,9.48,Southern
-longyearbyen,sj,82.1022,22.8311,12.59,78,0,2.54,Northern
-port alfred,za,-38.5891,30.2333,19.27,26,0,5.86,Southern
-ituporanga,br,-27.6127,-49.5415,16.72,99,24,0.42,Southern
-esperance,au,-41.8926,126.1811,10,87,67,10.3,Southern
-jever,de,54.0465,8.1201,15,82,40,2.6,Northern
-tokur,ru,54.4134,132.702,22.84,47,100,1.49,Northern
-luganville,vu,-14.7649,163.7782,28,78,75,4.1,Southern
-bambous virieux,mu,-41.1859,82.2165,18.95,68,75,6.7,Southern
-geraldton,au,-26.9951,116.814,15,54,0,9.3,Southern
-iqaluit,ca,57.7565,-67.5182,6.83,87,75,1.0,Northern
-aksum,et,14.2814,38.4332,14.39,100,100,0.44,Northern
-severo-kurilsk,ru,49.4087,157.5772,12.12,77,100,3.3,Northern
-aksu,kz,52.1236,76.3315,16,100,90,1.0,Northern
-padre bernardo,br,-15.2977,-48.2936,17.62,51,1,1.59,Southern
-kruisfontein,za,-52.6552,26.6028,15.69,28,0,5.22,Southern
-half moon bay,us,28.058,-137.6211,16.36,77,75,2.6,Northern
-hobart,au,-79.1448,136.827,11.6,57,75,4.6,Southern
-flinders,au,-36.1968,130.7014,17.38,73,33,1.79,Southern
-atuona,pf,-0.5354,-147.1986,26.17,78,27,8.27,Southern
-cherskiy,ru,69.1924,159.8015,27.63,42,0,3.22,Northern
-outjo,na,-19.9066,16.1367,9.96,48,0,5.81,Southern
-labuhan,id,-18.5759,96.1063,25.95,69,100,4.59,Southern
-fayetteville,us,34.7947,-78.5589,23.54,88,1,3.1,Northern
-roquetas de mar,es,35.9307,-2.3045,25.51,69,0,2.6,Northern
-butaritari,ki,17.7998,177.6035,28.41,75,44,8.44,Northern
-saint-francois,gp,18.4293,-54.9058,28,78,75,3.1,Northern
-macenta,gn,8.6411,-9.353,20.7,97,100,1.29,Northern
-qaanaaq,gl,85.1354,-69.8077,7.68,57,0,1.3,Northern
-lerwick,gb,61.2338,-0.0571,13,82,100,5.7,Northern
-katobu,id,-4.9578,121.9008,28.18,58,18,2.06,Southern
-talavera de la reina,es,39.6201,-4.5537,24.77,31,0,2.6,Northern
-hualmay,pe,-17.956,-90.8537,15.73,86,32,4.04,Southern
-talnakh,ru,81.6498,93.1229,13,58,0,7.0,Northern
-krusevac,rs,43.4472,21.3978,20.38,73,93,4.1,Northern
-kaabong,ug,3.452,33.5276,17.67,82,100,1.62,Northern
-urumqi,cn,42.8242,89.4065,29,26,0,2.0,Northern
-ust-ishim,ru,57.563,71.5921,14.96,78,18,2.23,Northern
-madras,in,12.3602,82.3465,28,83,40,3.1,Northern
-sidi ali,dz,35.0556,0.2564,24.29,38,0,1.85,Northern
-souillac,mu,-34.5014,64.7031,19,68,75,6.7,Southern
-clyde river,ca,71.0527,-74.5332,6,93,40,2.6,Northern
-polyarnyye zori,ru,67.6355,31.858,10.96,95,21,1.75,Northern
-vinh,vn,19.1416,104.815,31.71,61,48,1.44,Northern
-bandarbeyla,so,4.9436,57.6265,24.72,66,51,11.05,Northern
-samfya,zm,-11.7493,29.5228,10.27,82,0,4.04,Southern
-san cristobal,ec,-8.4565,-91.5394,20.93,83,96,5.43,Southern
-amuntai,id,-1.571,114.9992,29.38,64,51,0.29,Southern
-komsomolskiy,ru,73.4381,172.979,22.22,65,0,3.85,Northern
-havelock,us,31.498,-71.6294,26.38,85,86,0.89,Northern
-urucara,br,-1.4996,-58.6513,25.59,69,9,0.96,Southern
-nchelenge,zm,-9.3847,28.2165,13.18,67,0,3.44,Southern
-cayenne,gf,12.4481,-41.7746,26,88,94,3.85,Northern
-puerto ayora,ec,-8.0696,-101.2807,20,94,61,3.13,Southern
-kayerkan,ru,70.5154,87.6635,13,58,8,7.0,Northern
-vila franca do campo,pt,34.9941,-25.1099,19,77,75,0.66,Northern
-mar del plata,ar,-62.6669,-36.8661,5.29,73,40,6.7,Southern
-yumen,cn,43.356,97.5002,25.35,31,0,6.75,Northern
-palompon,ph,11.0042,124.3575,30.16,66,100,1.18,Northern
-muisne,ec,2.4078,-85.0087,22.94,85,70,2.46,Northern
-anchorage,us,61.6919,-150.4374,14.47,82,90,2.1,Northern
-kavaratti,in,13.1821,68.9681,27.5,83,100,11.33,Northern
-victoria,sc,-9.6146,62.7671,25,94,75,5.7,Southern
-katsuura,jp,30.5689,143.8161,26.93,94,75,4.1,Northern
-nizwa,om,20.0718,57.1082,26.65,65,23,1.97,Northern
-henties bay,na,-21.4518,9.4025,18.89,23,0,0.45,Southern
-san ramon,bo,-13.4053,-64.0079,26.79,47,0,0.51,Southern
-vao,nc,-27.701,168.7852,21.84,81,1,7.33,Southern
-urusha,ru,53.685,122.9989,19.37,95,100,1.37,Northern
-manggar,id,-2.3276,108.8559,28.07,74,47,6.72,Southern
-rota,es,36.3965,-6.6898,23.89,83,0,1.0,Northern
-poum,nc,-21.5047,160.3162,24.34,81,0,7.93,Southern
-grindavik,is,56.3933,-29.0716,6,75,40,6.7,Northern
-thompson,ca,81.1775,-96.5039,21,94,75,2.6,Northern
-humaita,br,-8.506,-62.9037,25.71,62,5,0.38,Southern
-garissa,ke,-0.8508,40.4516,21.84,68,0,7.16,Southern
-padilla,bo,-19.1511,-63.9207,8.66,90,100,0.76,Southern
-huangzhou,cn,30.5395,114.8739,24,88,90,1.0,Northern
-tasiilaq,gl,69.4528,-42.0575,5,93,100,1.5,Northern
-clarence town,bs,22.2933,-73.9948,29.05,80,30,8.95,Northern
-zeya,ru,54.4097,128.5886,19.01,93,100,3.65,Northern
-yangmei,tw,25.7904,120.5844,31.94,79,100,4.47,Northern
-nikolskoye,ru,39.6096,178.1456,11.77,87,75,3.0,Northern
-grand gaube,mu,-14.6666,65.126,18.89,63,68,4.02,Southern
-kyabe,td,9.343,18.7376,22.58,96,100,1.58,Northern
-alofi,nu,-21.8444,-168.2586,26,74,13,6.7,Southern
-kozhva,ru,64.9003,55.9824,16.69,55,80,3.1,Northern
-bathsheba,bb,21.4288,-48.5658,28,78,75,8.7,Northern
-sept-iles,ca,53.5627,-65.5221,18.81,82,75,2.1,Northern
-chuy,uy,-56.4615,-26.2209,8.34,91,99,4.11,Southern
-saskylakh,ru,75.9291,117.8615,9.18,79,99,4.71,Northern
-swan hill,au,-35.1276,143.9735,13.82,58,91,2.27,Southern
-martapura,id,-3.8281,114.8992,28,69,20,1.5,Southern
-touros,br,2.4046,-31.1588,22,88,80,2.1,Northern
-arraial do cabo,br,-48.9782,-25.8316,22.03,82,0,11.7,Southern
-deputatskiy,ru,71.733,139.994,26.17,26,94,1.57,Northern
-zimmi,sl,7.1664,-11.075,22.54,94,97,1.26,Northern
-sola,vu,-14.7322,169.3502,26.63,82,99,12.26,Southern
-port said,eg,31.1244,33.284,26,83,0,4.1,Northern
-omsukchan,ru,60.6001,155.7842,27.5,27,0,2.33,Northern
-chokurdakh,ru,69.3915,148.0594,26.74,37,51,2.24,Northern
-narsaq,gl,80.6791,-63.3444,9,87,100,2.6,Northern
-patabog,ph,13.4728,122.4787,30.76,63,52,0.77,Northern
-plettenberg bay,za,-38.6505,23.5357,19.38,26,0,4.45,Southern
-shiraz,ir,30.0949,52.2399,19,59,0,0.36,Northern
-benghazi,ly,32.1248,18.6363,25.05,83,0,4.29,Northern
-fort nelson,ca,61.4862,-124.2423,18,72,75,3.6,Northern
-coquimbo,cl,-28.8798,-83.2475,10,76,0,4.1,Southern
-bonnyville,ca,56.2338,-111.0482,17,82,90,5.7,Northern
-torbay,ca,45.5236,-46.0075,12.66,100,90,2.6,Northern
-barrow,us,85.0825,-166.8866,2,80,90,5.1,Northern
-lompoc,us,23.7409,-128.8974,15.59,77,14,5.1,Northern
-hasaki,jp,32.6515,153.2031,27.4,94,75,3.1,Northern
-rio grande,br,-41.6794,-41.2571,8.89,96,100,1.79,Southern
-yining,cn,43.9175,80.8643,30.2,80,100,0.45,Northern
-marin,mx,25.8561,-99.9242,33.61,36,40,1.5,Northern
-north myrtle beach,us,33.6245,-78.3675,23.66,88,1,2.1,Northern
-horta,pt,38.0546,-28.1404,20.81,76,0,3.31,Northern
-chitapur,in,17.3256,77.0533,22.95,91,100,3.63,Northern
-takaungu,ke,-4.0807,40.3786,23.82,75,88,8.67,Southern
-ribeira grande,pt,48.0152,-36.9483,21.08,76,0,3.4,Northern
-petropavlovsk-kamchatskiy,ru,47.8015,162.7215,18,63,76,3.0,Northern
-saldanha,za,-40.0089,1.9023,8,70,0,1.5,Southern
-rudnaya pristan,ru,44.3026,135.6907,18.02,81,71,2.87,Northern
-sur,om,18.2944,61.0707,30.18,63,0,3.64,Northern
-port-cartier,ca,52.6569,-67.971,18.78,82,75,2.1,Northern
-ambon,id,-5.7183,127.5209,29.47,74,40,3.1,Southern
-angoche,mz,-17.9875,41.6558,21.37,85,47,4.84,Southern
-ambikapur,in,23.3741,83.2688,24.46,84,100,1.12,Northern
-chateaubelair,vc,13.9927,-63.1376,28,88,75,8.7,Northern
-nevsehir,tr,38.6007,34.6766,18,63,0,4.6,Northern
-sereflikochisar,tr,39.0215,33.8319,17.79,62,0,3.41,Northern
-antoniny,ua,49.8081,26.9065,13.8,90,92,3.61,Northern
-san policarpo,ph,15.004,130.3991,29.73,68,64,1.75,Northern
-beringovskiy,ru,55.4426,175.8847,11.97,69,98,3.48,Northern
-nanortalik,gl,52.9399,-43.8192,7.14,91,100,0.41,Northern
-brownsville,us,26.3215,-96.4548,30.89,62,1,2.6,Northern
-san jeronimo,pe,-13.907,-73.1329,9.52,60,3,0.7,Southern
-campina verde,br,-19.5362,-49.5245,18.85,51,0,2.85,Southern
-shellbrook,ca,54.5231,-106.8192,24,57,20,4.6,Northern
-upernavik,gl,77.2104,-59.0598,7.98,84,100,2.56,Northern
-cap malheureux,mu,-12.2437,58.4802,18.89,63,57,4.02,Southern
-ishigaki,jp,23.3798,124.4012,31,84,75,4.6,Northern
-sorland,no,71.4911,10.4925,11.37,88,100,1.32,Northern
-morondava,mg,-18.7305,42.6457,20.02,55,0,6.09,Southern
-visby,se,57.3872,18.5103,14.19,87,40,3.6,Northern
-shitanjing,cn,40.5947,104.4074,23.83,51,93,3.97,Northern
-gamboma,cg,-1.422,16.4749,25.59,64,32,2.11,Southern
-maniitsoq,gl,66.2615,-52.8227,8.57,90,100,1.73,Northern
-sibenik,hr,42.9814,15.6012,20.71,77,6,2.6,Northern
-zhuhai,cn,21.3167,113.7383,33.38,70,20,3.6,Northern
-tres arroyos,ar,-40.9141,-60.1301,1.75,81,0,3.81,Southern
-wanning,cn,18.222,109.6735,31.76,62,49,3.34,Northern
-matanzas,cu,22.9816,-81.6566,23,100,40,0.5,Northern
-linqiong,cn,31.3796,102.7578,25,78,40,1.0,Northern
-la ronge,ca,59.1429,-105.2126,23,60,20,2.6,Northern
-zaraza,ve,9.5066,-65.0138,22.86,96,85,1.8,Northern
-navirai,br,-23.2584,-54.2363,20.22,50,2,2.58,Southern
-sawtell,au,-31.0367,156.4544,15.41,87,90,2.6,Southern
-ribeira do pombal,br,-10.8242,-38.4816,19.43,93,57,3.01,Southern
-aswan,eg,22.3465,28.9367,29.99,21,0,3.64,Northern
-ibb,ye,14.1232,44.166,19.9,72,100,1.31,Northern
-bac lieu,vn,6.2045,108.9787,29.72,69,0,3.57,Northern
-ormara,pk,20.5404,64.4257,28.99,79,31,4.93,Northern
-elizabeth city,us,35.5908,-75.4983,26.53,78,1,1.5,Northern
-khandyga,ru,64.1536,138.2116,29.64,32,0,2.15,Northern
-fortuna,us,36.7921,-133.1013,16.2,72,1,6.2,Northern
-margate,za,-40.4435,38.633,14.45,54,0,4.0,Southern
-ilebo,cd,-4.2205,20.161,22.24,45,36,0.44,Southern
-nome,us,65.8419,-167.1193,12.59,71,90,4.1,Northern
-tiksi,ru,81.4044,131.9299,11.8,80,36,5.26,Northern
-bull savanna,jm,15.5316,-78.2823,25.52,83,91,5.58,Northern
-kahului,us,28.9432,-152.8136,27.39,62,40,14.4,Northern
-brae,gb,61.7009,-1.4849,13,82,100,5.7,Northern
-viedma,ar,-46.034,-57.5995,2.22,86,3,1.79,Southern
-miranda de ebro,es,42.4255,-3.1021,15,87,90,0.5,Northern
-paamiut,gl,59.6797,-54.058,8.31,92,99,3.16,Northern
-cidreira,br,-54.5457,-23.4028,14.89,91,100,6.05,Southern
-thinadhoo,mv,-0.0103,64.6529,27.67,71,100,4.06,Southern
-port-gentil,ga,-5.8468,-0.3792,23.99,81,85,5.18,Southern
-xam nua,la,20.1268,103.1493,28.26,57,60,0.73,Northern
-baltay,ru,52.3442,46.7929,12.9,78,0,2.57,Northern
-manoel urbano,br,-8.1153,-69.3133,23.09,86,0,0.35,Southern
-lara,au,-37.8067,144.4003,11.07,81,100,1.94,Southern
-wageningen,sr,4.3321,-57.0009,23.24,93,38,1.04,Northern
-sabang,id,7.1776,92.7668,28.02,76,45,2.7,Northern
-sioux lookout,ca,57.2264,-90.2079,27,78,40,1.5,Northern
-richards bay,za,-30.7852,38.7649,15.78,77,0,4.48,Southern
-gorin,ru,51.818,137.2133,22.02,60,91,0.37,Northern
-rocha,uy,-38.7909,-49.7406,6.54,88,85,3.95,Southern
-fillmore,us,34.6936,-118.806,25.97,83,1,2.6,Northern
-ust-kuyga,ru,70.2937,135.7245,28.33,35,42,1.3,Northern
-farsund,no,56.7576,6.6704,13.33,82,11,5.81,Northern
-uglegorsk,ru,49.2628,141.9388,14.48,80,99,3.08,Northern
-lorengau,pg,7.2063,145.9689,28.89,77,84,4.72,Northern
-azare,ng,11.5552,10.4406,25.61,74,99,4.41,Northern
-vila velha,br,-22.4709,-33.7365,19,93,40,2.67,Southern
-saint george,bm,36.6776,-62.3302,26.85,69,5,2.6,Northern
-craig,us,40.7351,-108.0978,22.03,36,75,10.3,Northern
-hof,no,61.5875,13.1521,7.98,99,9,2.2,Northern
-bengkulu,id,-18.4215,92.0607,27.2,73,84,1.84,Southern
-meulaboh,id,-2.3195,92.497,26.41,83,26,1.18,Southern
-vidisha,in,23.61,77.9524,23,100,40,2.6,Northern
-chengde,cn,40.8486,118.1301,32.69,32,98,0.41,Northern
-tuatapere,nz,-46.7423,163.236,10.12,77,100,3.14,Southern
-george town,ky,18.2628,-82.2001,27.22,86,100,3.13,Northern
-salalah,om,20.377,53.4384,26,88,75,3.1,Northern
-chintamani,in,13.5703,78.027,21.28,100,40,3.1,Northern
-port augusta,au,-27.4434,137.9829,14.85,82,90,4.6,Southern
-dera bugti,pk,29.1598,68.8387,33.37,42,0,2.37,Northern
-luderitz,na,-35.8078,1.9323,18,27,0,1.5,Southern
-pangai,to,-20.4645,-173.5279,27,74,40,7.2,Southern
-rawson,ar,-47.8828,-60.7577,6,64,0,9.8,Southern
-betioky,mg,-23.4821,44.5522,13.79,70,0,4.91,Southern
-cuiluan,cn,48.0789,128.022,28.82,57,6,1.42,Northern
-moose factory,ca,56.1886,-76.7271,25,57,1,3.1,Northern
-auki,sb,-1.1227,164.5697,28.88,76,100,3.51,Southern
-ulladulla,au,-35.6989,151.1804,14.73,63,75,1.5,Southern
-misratah,ly,31.8391,15.1808,24.54,73,0,1.62,Northern
-barcelona,ve,11.1581,-65.3048,25.77,82,23,4.11,Northern
-tezu,in,28.6687,96.5135,28.63,68,100,0.77,Northern
-bagdarin,ru,54.106,114.6738,23.88,56,64,1.5,Northern
-broome,au,-24.1441,124.2337,25,16,0,6.7,Southern
-cusuna,hn,15.5556,-85.2609,26.34,81,0,4.48,Northern
-florida,cu,21.3696,-78.3072,26,100,100,5.1,Northern
-kifri,iq,34.8356,44.8346,33.63,13,0,3.05,Northern
-pionerskiy,ru,60.535,62.9737,16.94,93,20,3.0,Northern
-saint-louis,sn,15.9816,-17.0373,29.35,62,100,6.32,Northern
-cabo san lucas,mx,13.9952,-121.525,28.21,73,5,7.7,Northern
-severo-yeniseyskiy,ru,59.2958,93.3403,13.61,75,22,2.5,Northern
-ryotsu,jp,39.1539,138.0194,25,88,100,2.1,Northern
-dingle,ie,51.8151,-12.4404,14.68,90,100,4.02,Northern
-cabinda,ao,-6.0894,11.3058,21.75,87,100,1.43,Southern
-atar,mr,19.1506,-12.2512,32.76,32,0,6.13,Northern
-mahanoro,mg,-20.1981,50.2017,18.21,81,2,4.44,Southern
-sechura,pe,-7.8118,-83.186,17.99,79,56,6.95,Southern
-alice springs,au,-22.442,133.6367,15,44,0,4.6,Southern
-hofn,is,64.1876,-13.5071,9.62,64,100,6.01,Northern
-alekseyevsk,ru,57.8872,109.1659,18.42,52,5,2.95,Northern
-capitola,us,36.8296,-121.9306,18.73,77,1,3.1,Northern
-siaya,ke,-0.2253,34.1464,16.12,88,5,2.08,Southern
-kemijarvi,fi,66.2235,27.1187,8.98,93,0,2.52,Northern
-san carlos de bariloche,ar,-43.1509,-69.5044,3,95,75,12.3,Southern
-vardo,no,79.931,33.3999,13.56,88,0,5.27,Northern
-kaeo,nz,-32.3592,174.7862,13.33,3,81,1.79,Southern
-mbuji-mayi,cd,-5.7997,23.7613,20.24,41,41,1.66,Southern
-bom jesus,br,-9.1618,-43.7657,21.55,61,87,1.69,Southern
-waitara,nz,-38.5498,173.9628,12.67,73,61,3.13,Southern
-kodinsk,ru,58.236,99.9971,17.58,58,0,2.38,Northern
-evensk,ru,64.104,160.8104,15.92,68,0,4.89,Northern
-maldonado,uy,-35.4088,-55.325,7.6,81,75,3.1,Southern
-namatanai,pg,-0.4273,156.6323,29.19,74,6,4.89,Southern
-churapcha,ru,61.739,132.5258,28.78,30,35,6.2,Northern
-ixtapa,mx,15.6974,-102.6062,28.94,74,75,2.6,Northern
-walvis bay,na,-26.0568,4.3512,19.99,18,0,5.7,Southern
-provideniya,ru,55.9966,-174.5321,10.39,66,100,1.2,Northern
-sitka,us,51.5058,-143.2596,14,82,90,4.1,Northern
-port hardy,ca,47.6472,-132.7326,16,72,40,6.7,Northern
-alta floresta,br,-11.9603,-55.1284,25.59,44,40,1.45,Southern
-nara,ml,18.7678,-7.216,27.8,66,69,6.16,Northern
-sokoni,tz,-6.1912,40.8977,22.57,83,20,7.2,Southern
-junin,ar,-34.8411,-60.8981,2.78,77,6,3.58,Southern
-neiafu,to,-17.373,-175.1257,26,88,40,5.1,Southern
-bethel,us,48.4979,-168.1911,21.74,88,1,2.1,Northern
-jamame,so,-0.0193,43.694,23.92,76,8,5.46,Southern
-port hedland,au,-23.4123,120.4663,24,23,0,9.8,Southern
-cordoba,ar,-29.7517,-63.2187,5.34,54,0,2.6,Southern
-pinawa,ca,49.2829,-95.7486,25.22,78,39,1.94,Northern
-oktyabrskoye,ru,63.175,69.105,17.89,88,43,1.0,Northern
-canico,pt,31.6306,-16.6009,20,68,20,11.3,Northern
-myitkyina,mm,25.3289,97.901,27.68,85,100,0.29,Northern
-guarapari,br,-20.6126,-40.5308,19,93,40,3.44,Southern
-lanxi,cn,29.4393,119.373,25.25,84,100,1.17,Northern
-axim,gh,2.8489,-3.4398,23.6,89,0,4.09,Northern
-verkhoyansk,ru,67.5888,133.8819,30.41,24,49,2.59,Northern
-mikhaylovskoye,ru,52.0899,79.8664,20.42,81,87,2.26,Northern
-nokaneng,bw,-18.8201,22.7334,9.24,65,0,3.85,Southern
-sao filipe,cv,3.7625,-26.6962,24.96,81,95,1.23,Northern
-makakilo city,us,4.7002,-165.2584,30.95,43,1,4.1,Northern
-tukrah,ly,31.903,21.4087,23.32,86,0,1.39,Northern
-gorontalo,id,1.9493,121.3853,28.66,74,23,3.12,Northern
-norfolk,us,42.1161,-98.4197,21.39,78,1,1.73,Northern
-acapulco,mx,10.1895,-101.5261,29,79,75,2.1,Northern
-santa cruz,cr,8.3626,-89.7052,24.06,92,100,1.55,Northern
-dalbandin,pk,30.0555,63.9185,29.72,45,43,1.73,Northern
-karratha,au,-20.9829,114.3062,23.57,32,0,8.98,Southern
-itarema,br,5.1255,-35.3015,25.21,83,22,6.22,Northern
-terrace,ca,57.2636,-128.8987,15,72,75,7.7,Northern
-khanpur,pk,28.1822,71.1469,35.69,42,0,1.63,Northern
-port macquarie,au,-35.2947,160.9861,18.33,76,64,0.89,Southern
-kununurra,au,-14.9995,125.3265,28,17,0,5.1,Southern
-samarai,pg,-12.3952,150.102,26.37,85,58,7.19,Southern
-puerto ayacucho,ve,5.1374,-65.1603,23.4,90,73,0.58,Northern
-inhambane,mz,-23.4963,38.1183,18.06,74,13,4.59,Southern
-naze,jp,29.354,129.8681,26.99,94,75,3.1,Northern
-aripuana,br,-9.6523,-58.4342,27.64,50,83,0.5,Southern
-lingdong,cn,46.4888,130.8095,25.69,64,40,2.17,Northern
-sao joao da barra,br,-21.8358,-40.1063,22.05,83,0,7.24,Southern
-saint-augustin,ca,51.693,-58.7717,15.71,85,99,3.21,Northern
-hirara,jp,22.6834,126.8643,30.18,74,75,3.6,Northern
-denpasar,id,-12.655,114.0368,27,69,20,6.7,Southern
-havoysund,no,78.8364,24.179,16,87,0,9.8,Northern
-aklavik,ca,71.6884,-136.962,20,42,75,3.1,Northern
-abeche,td,14.1711,20.8056,26.23,72,100,2.95,Northern
-besancon,fr,47.2493,5.9773,13.33,100,0,1.11,Northern
-trincomalee,lk,10.8754,84.8908,27.53,77,80,6.74,Northern
-ayan,ru,57.6155,135.7424,13.59,72,2,2.97,Northern
-harper,lr,0.5914,-11.4793,23.64,86,56,3.78,Northern
-nilopolis,br,-23.107,-43.5437,22.47,73,0,3.1,Southern
-west bay,ky,18.9438,-84.1348,27.22,86,100,3.13,Northern
-ostrovnoy,ru,67.9764,39.1438,13.96,86,1,5.45,Northern
-colquiri,bo,-17.2574,-66.7807,0.64,72,100,0.24,Southern
-hutchinson,us,38.2944,-97.663,29,66,1,3.6,Northern
-kupang,id,-13.3218,124.8277,29,42,20,7.2,Southern
-soure,br,-0.7139,-48.4247,26.76,82,57,6.03,Southern
-lupiro,tz,-8.3516,37.255,17.47,62,1,1.1,Southern
-batsfjord,no,70.5647,29.4336,14.66,83,0,3.86,Northern
-bata,gq,2.2527,9.0844,24.18,84,81,3.21,Northern
-ulaangom,mn,46.3005,91.7399,22.23,42,2,1.38,Northern
-genhe,cn,51.4597,121.7243,29.1,47,97,1.98,Northern
-sikonge,tz,-5.5822,32.8923,12.94,66,2,2.41,Southern
-college,us,69.9899,-147.1454,15.39,67,90,1.5,Northern
-santa rosa,bo,-13.1918,-66.3543,24.04,83,100,1.73,Southern
-navoloki,ru,57.6315,42.0043,9.58,93,0,1.73,Northern
-pisco,pe,-19.6422,-88.5472,16.05,82,1,7.2,Southern
-umm kaddadah,sd,12.1167,25.7823,29.93,52,69,6.17,Northern
-athabasca,ca,58.0655,-112.1651,17.71,69,98,1.64,Northern
-milkovo,ru,55.3084,158.5902,21.71,50,74,0.75,Northern
-kawalu,id,-15.4624,106.3896,23,83,93,1.82,Southern
-nigde,tr,38.1304,35.025,14.89,60,0,2.33,Northern
-constitucion,mx,19.7027,-119.0748,19.66,68,90,1.5,Northern
-palkonda,in,18.6132,83.8377,27.16,80,98,0.13,Northern
-kabalo,cd,-6.1176,27.0257,19.73,40,2,2.24,Southern
-lisakovsk,kz,51.1897,63.4206,15.35,90,40,5.56,Northern
-chaozhou,cn,24.2785,116.9884,31,70,20,3.0,Northern
-erzin,ru,47.7507,95.6912,22.34,38,0,2.38,Northern
-mehamn,no,85.7309,28.6962,14.76,80,0,6.35,Northern
-dezhou,cn,37.6066,116.5574,33.51,35,100,2.85,Northern
-bageshwar,in,29.8446,79.6642,24.31,72,74,0.61,Northern
-sambek,ru,47.6054,39.8853,14,67,4,3.0,Northern
-eslov,se,55.9689,13.1574,11.92,100,0,1.5,Northern
-palma di montechiaro,it,36.3844,13.364,23.33,46,0,3.04,Northern
-orange cove,us,36.8395,-119.0275,33.65,30,1,2.66,Northern
-kaseda,jp,30.1698,130.5831,25.3,83,75,5.1,Northern
-tromso,no,71.4581,19.1535,12,100,100,8.2,Northern
-kasongo-lunda,cd,-6.9367,16.7425,18.88,36,0,0.32,Southern
-guerrero negro,mx,18.585,-123.777,19.61,77,0,6.98,Northern
-morant bay,jm,14.8579,-75.3113,28.43,70,20,8.7,Northern
-mednogorsk,ru,50.9687,57.7436,16.37,90,97,0.88,Northern
-caravelas,br,-18.936,-28.0369,20.83,82,1,1.98,Southern
-nishihara,jp,21.0339,132.2053,30,79,75,4.6,Northern
-yelan-kolenovskiy,ru,51.0583,41.3002,13.1,78,0,1.11,Northern
-kloulklubed,pw,8.1519,132.7972,24,94,90,4.21,Northern
-quepos,cr,8.2777,-84.8729,19.78,100,75,1.5,Northern
-bridlington,gb,54.7403,1.2044,15.76,99,100,6.29,Northern
-chirongui,yt,-14.1589,44.7985,24,69,90,11.3,Southern
-tarauaca,br,-8.5447,-71.3896,24.35,79,41,0.84,Southern
-tabou,ci,-1.7614,-4.3392,23.94,85,46,4.1,Southern
-suntar,ru,62.4495,117.5216,20.26,79,92,2.63,Northern
-port shepstone,za,-33.5386,34.4676,13.93,57,0,3.73,Southern
-ancud,cl,-41.3501,-90.7903,7.91,100,90,4.6,Southern
-mitsamiouli,km,-8.0716,46.3393,24.79,69,55,6.66,Southern
-prince rupert,ca,51.5546,-131.5032,15,77,90,1.5,Northern
-sibolga,id,-1.4174,93.7634,26.93,72,80,1.03,Southern
-camopi,gf,2.2142,-53.0598,22.55,97,100,1.01,Northern
-chapada dos guimaraes,br,-15.379,-55.9379,26,41,97,1.5,Southern
-quelimane,mz,-18.7912,35.8889,18.94,93,75,1.0,Southern
-taksimo,ru,57.0502,116.1765,23.81,55,66,0.84,Northern
-port blair,in,8.914,92.9982,28.83,73,45,2.01,Northern
-coihaique,cl,-46.5552,-76.3143,5,75,100,0.5,Southern
-padang,id,-4.6874,95.0164,27.95,71,100,0.76,Southern
-jardim,br,-0.0879,-36.7268,21.64,58,44,3.95,Southern
-wigston,gb,52.5273,-1.0993,16.8,53,100,3.58,Northern
-hambantota,lk,0.3749,83.8196,24,100,40,1.5,Northern
-lahat,id,-4.7236,103.3974,27.52,67,11,0.48,Southern
-pochutla,mx,12.8069,-95.9936,26.67,80,84,0.85,Northern
-santiago,pe,-15.7328,-77.3657,16.11,83,0,1.77,Southern
-marawi,sd,20.88,30.3558,31.45,17,2,3.79,Northern
-kailua,us,27.5561,-154.606,27.51,62,40,6.2,Northern
-new amsterdam,gy,6.0766,-57.4535,24,86,16,0.89,Northern
-gidole,et,6.0915,37.13,13.66,100,92,1.39,Northern
-conde,br,-15.3765,-32.0601,23,88,70,3.1,Southern
-kargopol,ru,61.0775,38.948,9.34,90,0,1.25,Northern
-stanger,za,-29.2086,31.2131,10,87,0,2.6,Southern
-mizan teferi,et,6.2685,35.4961,15.53,90,61,0.45,Northern
-husavik,is,71.5171,-13.222,7,75,90,2.1,Northern
-krasnohrad,ua,49.1787,35.5251,16.05,71,83,2.54,Northern
-chapais,ca,49.0902,-74.8731,18,93,90,4.6,Northern
-fort morgan,us,40.3433,-104.0634,22,60,90,3.6,Northern
-najran,sa,17.7417,47.643,28,34,100,1.5,Northern
-leeuwarden,nl,53.9627,5.6752,13.91,93,90,2.1,Northern
-kedrovyy,ru,57.859,78.6659,13,87,94,2.0,Northern
-ko samui,th,9.8648,101.6221,28,83,20,1.0,Northern
-dzhebariki-khaya,ru,63.7705,138.7566,29.84,30,1,2.64,Northern
-sinnamary,gf,11.5364,-48.5948,25.75,86,82,4.56,Northern
-moba,cd,-6.5457,29.6626,20.13,49,0,2.64,Southern
-sembakung,id,3.3067,117.0918,29.79,64,100,1.29,Northern
-zhezkazgan,kz,46.7604,68.9024,18,52,0,4.0,Northern
-acara,br,-2.0602,-48.0452,23.41,86,59,1.31,Southern
-gazojak,tm,41.2381,61.7992,28.66,22,64,3.01,Northern
-banes,cu,21.4288,-75.6505,25,88,75,5.1,Northern
-breytovo,ru,58.4808,37.8406,9.46,85,16,2.43,Northern
-santa ana,pe,-12.2163,-71.91,16.28,71,99,1.51,Southern
-ponta delgada,pt,29.9551,-28.7972,19,77,75,1.04,Northern
-mlawa,pl,53.1655,20.311,14.5,87,90,1.0,Northern
-tabuk,sa,27.3638,36.8797,29,21,0,5.7,Northern
-bambamarca,pe,-6.6548,-78.5786,11.57,79,35,1.04,Southern
-la plata,ar,-35.2447,-58.043,8.16,60,0,0.89,Southern
-hays,us,39.6022,-100.4503,30.2,62,100,2.68,Northern
-hami,cn,40.6977,94.1443,28.07,29,0,1.96,Northern
-maumere,id,-9.2914,122.2611,26.83,60,63,3.41,Southern
-mustafakemalpasa,tr,39.8916,28.684,20,72,0,2.6,Northern
-tame,co,6.608,-71.4111,22.29,91,100,1.27,Northern
-cairns,au,-15.4402,147.8531,26.91,54,40,7.7,Southern
-mus,tr,38.9001,41.6951,18.21,46,0,2.67,Northern
-berlevag,no,88.6012,31.8471,13.88,84,0,5.75,Northern
-tres coroas,br,-29.5074,-50.866,13.53,90,100,0.45,Southern
-sovetskiy,ru,57.0585,48.4786,14.13,60,18,2.53,Northern
-puerto escondido,mx,12.2579,-98.8342,27.79,73,95,0.53,Northern
-the valley,ai,24.8837,-62.4718,28.56,74,20,4.1,Northern
-yabrud,sy,34.0959,36.428,18.53,64,0,5.7,Northern
-soverato,it,37.8442,17.5226,21,88,0,0.5,Northern
-mountain home,us,43.1281,-115.7044,32,22,1,3.1,Northern
-brandon,ca,49.8681,-100.0396,27,78,75,5.7,Northern
-raudeberg,no,64.7552,1.9679,10.11,87,19,3.1,Northern
-broken hill,au,-29.8889,142.5687,16,55,0,5.7,Southern
-harlingen,nl,55.09,5.3565,14.73,93,90,2.1,Northern
-monrovia,lr,2.3571,-12.9297,24,100,75,4.91,Northern
-nakonde,zm,-9.4098,32.2758,9.08,97,0,3.16,Southern
-den helder,nl,54.7363,3.9827,16.98,88,90,4.1,Northern
-kashi,cn,38.5936,76.1708,26,29,20,2.0,Northern
+dikson,ru,79.335,74.1158,3.82,91,46,6.55,Northern
+mbanza-ngungu,cd,-5.668,14.3623,24.95,41,0,2.92,Southern
+ancud,cl,-40.8561,-91.8283,9.44,68,40,6.7,Southern
+arraial do cabo,br,-37.3683,-30.351,26.0,73,20,1.5,Southern
+port macquarie,au,-32.8374,163.0862,10.56,99,90,3.63,Southern
+port alfred,za,-88.4055,39.8498,14.55,69,77,7.3,Southern
+ilulissat,gl,72.4304,-47.6685,7.0,93,100,3.6,Northern
+whitianga,nz,-35.7401,176.1451,5.56,97,63,1.7,Southern
+marsh harbour,bs,26.7534,-75.5763,29.53,71,100,5.93,Northern
+barrow,us,89.8441,-160.4761,7.0,87,90,8.7,Northern
+nikolskoye,ru,54.4453,166.5167,17.0,59,0,1.0,Northern
+clyde river,ca,67.4297,-76.9906,9.0,76,1,2.1,Northern
+cape town,za,-61.8821,-2.111,13.33,66,20,9.8,Southern
+bahir dar,et,11.9027,37.3193,15.7,91,100,1.22,Northern
+ararat,au,-37.2295,142.7839,3.3,95,99,3.39,Southern
+georgetown,sh,-13.5263,-19.6383,23.62,75,19,9.14,Southern
+moron,mn,46.6902,98.3886,15.21,92,100,1.13,Northern
+albany,au,-76.7261,114.5688,12.0,87,75,3.1,Southern
+nome,us,59.1964,-167.4828,14.44,71,75,2.1,Northern
+lang son,vn,22.1591,107.3968,24.75,95,100,1.03,Northern
+saint-joseph,re,-31.1918,55.9306,19.0,77,40,2.6,Southern
+la ronge,ca,61.0301,-106.3028,21.0,56,75,8.2,Northern
+tuktoyaktuk,ca,76.8864,-124.4721,16.0,72,20,3.6,Northern
+busselton,au,-77.6871,82.7366,16.67,77,68,6.25,Southern
+nizhniy kuranakh,ru,60.8365,124.1508,15.04,80,100,1.09,Northern
+jamestown,sh,-16.0843,-5.8514,17.36,82,89,7.05,Southern
+rabupura,in,28.2645,77.6742,30.0,84,40,0.39,Northern
+lebu,cl,-35.3375,-80.9781,11.16,82,100,4.47,Southern
+ushuaia,ar,-78.7135,-25.8424,1.0,89,40,9.3,Southern
+upernavik,gl,74.8742,-55.1554,6.46,91,100,1.56,Northern
+flinders,au,-34.7829,132.2225,16.67,96,100,5.36,Southern
+los llanos de aridane,es,26.9812,-18.707,24.0,69,20,6.7,Northern
+hermanus,za,-48.6121,15.4872,11.11,77,8,1.79,Southern
+kosh-agach,ru,50.0651,89.0307,7.53,81,0,0.45,Northern
+adre,td,14.1579,22.8705,28.49,51,20,5.77,Northern
+mount gambier,au,-47.8439,132.5088,9.0,100,75,3.6,Southern
+bethel,us,44.8599,-168.7372,32.22,43,1,6.2,Northern
+lavrentiya,ru,77.0253,-167.8768,14.76,64,100,6.25,Northern
+yellowknife,ca,80.4191,-103.7941,22.0,40,20,3.6,Northern
+new norfolk,au,-64.908,135.0181,7.0,93,75,2.6,Southern
+cidreira,br,-40.1915,-37.9785,13.97,73,100,6.43,Southern
+klaksvik,fo,68.6718,-2.4161,11.0,87,100,5.7,Northern
+zhigansk,ru,70.2956,123.2209,7.1,82,46,5.59,Northern
+punta arenas,cl,-61.8396,-84.5686,4.0,64,20,8.7,Southern
+torbay,ca,46.2321,-42.5298,15.56,87,90,5.7,Northern
+hilo,us,8.0302,-143.9916,28.0,69,1,2.6,Northern
+sao filipe,cv,8.0539,-29.3085,24.97,85,96,3.35,Northern
+ostersund,se,62.5212,15.2615,16.0,72,92,4.6,Northern
+husavik,is,75.9172,-10.5434,9.0,70,90,4.6,Northern
+mahebourg,mu,-28.2032,65.4654,21.0,73,75,7.2,Southern
+atuona,pf,-5.8951,-137.4626,26.7,73,3,10.93,Southern
+rikitea,pf,-66.0187,-126.5807,21.21,78,0,8.44,Southern
+san cristobal,ec,-1.3075,-85.7242,23.0,73,40,6.2,Southern
+pacific grove,us,27.8354,-134.9198,24.44,68,75,4.1,Northern
+bucerias,mx,20.4696,-108.1125,31.0,62,40,1.5,Northern
+turochak,ru,52.0462,87.5653,12.24,93,22,1.13,Northern
+egvekinot,ru,56.1185,-179.4997,12.59,84,32,2.73,Northern
+timizart,dz,37.5802,4.9843,27.66,47,0,3.64,Northern
+stokmarknes,no,70.2705,14.6174,21.0,46,1,2.6,Northern
+saldanha,za,-33.1256,10.6258,12.0,76,0,4.6,Southern
+pisco,pe,-27.3632,-95.6933,18.89,72,40,5.1,Southern
+tateyama,jp,27.1707,142.6556,25.56,94,100,0.89,Northern
+esperance,au,-55.1059,127.0127,9.0,93,84,6.2,Southern
+bredasdorp,za,-82.5433,22.8101,10.0,76,2,2.1,Southern
+safaga,eg,24.9744,34.9866,35.0,26,0,7.2,Northern
+sladkovo,ru,55.7987,69.9,13.21,86,84,3.34,Northern
+alta floresta,br,-8.7242,-57.2025,35.0,24,20,4.1,Southern
+rosarito,mx,28.2774,-122.0117,27.78,65,5,4.6,Northern
+sitka,us,52.7053,-138.9897,13.0,87,75,2.6,Northern
+puerto ayora,ec,-2.847,-106.4336,26.0,57,20,10.3,Southern
+tashtagol,ru,51.8107,88.7572,13.2,92,100,3.72,Northern
+kabinda,cd,-6.509,24.4108,22.37,28,0,0.7,Southern
+kapaa,us,35.6836,-160.9674,27.0,74,20,7.2,Northern
+avarua,ck,-54.8318,-167.3925,22.0,83,100,3.6,Southern
+lompoc,us,24.9003,-129.417,19.0,72,0,5.1,Northern
+kruisfontein,za,-58.3651,27.6223,12.78,88,49,2.17,Southern
+kurilsk,ru,46.7206,146.0677,10.74,82,33,1.04,Northern
+opuwo,na,-19.1956,11.6118,16.73,31,0,4.49,Southern
+minsk,by,53.4858,28.1011,18.0,88,100,2.0,Northern
+port elizabeth,za,-88.9915,33.6724,14.0,71,70,3.6,Southern
+jharsuguda,in,21.9607,84.0073,28.94,62,99,1.98,Northern
+joshimath,in,32.1248,80.8922,19.48,60,62,0.24,Northern
+qaanaaq,gl,81.1116,-80.1599,8.64,52,0,4.06,Northern
+novoagansk,ru,61.8284,76.8587,11.54,78,22,2.73,Northern
+pangoa,pe,-11.5162,-71.5071,28.07,49,0,1.95,Southern
+vaini,to,-77.5115,-169.1665,20.0,94,40,2.6,Southern
+pevek,ru,80.1985,167.8707,12.17,67,100,5.0,Northern
+lorengau,pg,8.2991,146.2889,27.31,81,100,3.66,Northern
+sinnamary,gf,11.3551,-49.4208,28.06,76,24,3.94,Northern
+iqaluit,ca,61.8933,-77.4293,11.0,71,75,1.5,Northern
+tomatlan,mx,15.2437,-110.8158,30.6,70,87,3.69,Northern
+butaritari,ki,15.508,165.5568,28.34,75,0,6.27,Northern
+umba,ru,66.2716,34.6994,14.55,77,100,4.13,Northern
+baturaja,id,-4.4868,103.6274,21.46,95,49,1.09,Southern
+taltal,cl,-24.9643,-82.0265,17.07,55,22,1.09,Southern
+port hardy,ca,48.4905,-128.7406,14.0,93,40,1.5,Northern
+hobart,au,-57.3109,155.3009,7.0,93,75,2.6,Southern
+teya,ru,62.597,90.2349,10.04,88,64,0.94,Northern
+tilichiki,ru,58.4118,165.8845,13.44,69,0,2.63,Northern
+raudeberg,no,66.2619,0.8431,16.0,93,75,3.6,Northern
+caravelas,br,-22.847,-24.6966,24.32,71,4,3.25,Southern
+santa marta,co,12.6641,-74.8019,30.0,74,40,3.1,Northern
+maniitsoq,gl,60.4758,-59.0714,9.26,84,7,0.94,Northern
+bay city,us,43.9306,-83.5604,33.0,58,40,6.7,Northern
+longyearbyen,sj,88.0069,17.0773,16.0,72,0,5.1,Northern
+bin qirdan,tn,33.1098,11.0313,27.71,55,0,6.38,Northern
+chokurdakh,ru,85.9111,146.5146,8.69,79,100,3.78,Northern
+teguldet,ru,58.0629,89.0468,13.86,95,100,1.77,Northern
+bengkulu,id,-8.3325,93.4957,23.87,85,82,2.3,Southern
+aljezur,pt,37.3087,-9.0811,23.86,65,1,4.36,Northern
+xuddur,so,5.8111,44.6388,23.82,68,21,5.19,Northern
+hukuntsi,bw,-24.4657,21.1787,12.28,41,0,3.55,Southern
+sao lourenco do sul,br,-31.0728,-52.1805,15.0,58,30,3.6,Southern
+artigas,uy,-30.6477,-56.316,14.16,65,100,3.4,Southern
+krasnoselkup,ru,63.961,80.9796,12.0,59,84,7.12,Northern
+haileybury,ca,47.3147,-80.0108,28.0,74,75,4.6,Northern
+qaqortoq,gl,64.37,-44.2679,12.0,66,75,4.1,Northern
+quatre cocos,mu,-17.9281,69.435,21.11,73,75,7.2,Southern
+victoria,sc,-5.4812,59.3633,27.0,88,40,2.6,Southern
+college,us,74.5569,-146.8092,17.0,72,75,2.6,Northern
+amot,no,59.6774,7.772,15.0,91,100,1.34,Northern
+griffith,au,-34.6451,145.7297,8.0,87,91,5.1,Southern
+lamu,ke,-1.7635,41.0647,24.74,80,10,7.43,Southern
+carnarvon,au,-22.2434,100.6065,13.0,100,0,2.6,Southern
+zeya,ru,54.7769,129.377,15.95,93,99,0.77,Northern
+yara,cu,19.446,-76.8667,34.95,48,1,2.1,Northern
+puri,in,17.8814,87.5488,29.0,89,40,3.1,Northern
+isangel,vu,-16.7039,176.1799,19.0,93,31,0.5,Southern
+takoradi,gh,1.2083,-0.8618,24.27,80,98,4.92,Northern
+bluff,nz,-79.0653,154.7831,3.89,83,0,1.34,Southern
+copacabana,bo,-16.0373,-69.1005,9.5,46,0,3.83,Southern
+castro,cl,-46.2832,-91.2546,9.44,62,40,6.7,Southern
+toamasina,mg,-18.7944,51.4583,19.0,93,75,5.1,Southern
+thompson,ca,61.9116,-94.1096,15.0,93,90,4.1,Northern
+harper,lr,-0.5837,-12.2436,24.36,76,98,3.43,Southern
+villa maria,ar,-32.7964,-63.5455,17.63,30,0,6.54,Southern
+ribeira grande,pt,42.4597,-31.5463,24.0,88,75,3.1,Northern
+dewa,in,27.0076,81.1848,30.0,89,75,2.2,Northern
+portland,au,-52.2627,132.8218,10.74,86,88,3.14,Southern
+kupang,id,-9.4665,123.3566,23.02,79,62,5.06,Southern
+bahia honda,cu,24.5164,-84.6364,28.51,78,100,4.18,Northern
+qasigiannguit,gl,67.6305,-50.6538,7.0,93,100,3.6,Northern
+mareeba,au,-14.0083,142.1395,14.44,83,0,0.98,Southern
+oktyabrskoye,ru,61.8053,67.9677,23.0,83,17,5.0,Northern
+saint-philippe,re,-65.757,70.5485,21.0,77,40,2.6,Southern
+nanortalik,gl,51.2001,-36.1966,7.98,82,64,1.74,Northern
+te anau,nz,-40.0702,162.5995,1.99,86,25,0.43,Southern
+yacuiba,bo,-22.0806,-63.8964,23.52,20,0,3.2,Southern
+loikaw,mm,19.3556,96.9545,21.19,92,100,0.9,Northern
+rawson,ar,-47.662,-62.7903,7.0,75,90,1.5,Southern
+hovd,mn,41.9189,102.699,18.59,42,0,2.56,Northern
+ahipara,nz,-35.0232,167.4848,8.07,82,0,1.69,Southern
+canon city,us,38.5814,-105.6169,30.0,35,1,4.6,Northern
+touros,br,0.7484,-34.3082,25.0,83,40,4.6,Northern
+salalah,om,13.8953,56.5908,26.0,94,75,1.0,Northern
+pangnirtung,ca,65.7483,-60.2689,9.0,87,75,3.6,Northern
+balkanabat,tm,41.0588,54.0674,34.51,29,0,4.49,Northern
+korla,cn,35.5264,86.7877,32.22,64,0,1.79,Northern
+milkovo,ru,54.8465,157.3746,12.78,84,0,0.59,Northern
+provideniya,ru,45.3957,-178.8217,8.0,75,100,2.0,Northern
+sao joao da barra,br,-31.2438,-24.1509,25.0,69,75,7.2,Southern
+acarau,br,-1.0772,-40.2165,29.92,51,0,6.54,Southern
+tiksi,ru,79.0693,124.6701,2.78,94,100,5.09,Northern
+biltine,td,15.4768,22.7041,33.87,32,0,3.33,Northern
+mikuni,jp,37.5983,135.2276,23.0,94,75,1.5,Northern
+iraucuba,br,-3.879,-39.657,31.5,31,98,4.5,Southern
+nyimba,zm,-14.0342,30.6786,16.55,44,6,2.87,Southern
+port blair,in,10.7273,90.6707,28.21,76,100,1.18,Northern
+noumea,nc,-27.5803,163.942,22.22,87,1,1.0,Southern
+kodinsk,ru,61.1169,99.7066,11.78,94,69,1.14,Northern
+rancho palos verdes,us,33.5801,-118.4849,23.89,77,20,5.7,Northern
+kununurra,au,-17.7262,131.249,18.0,32,88,3.1,Southern
+kahului,us,34.7642,-144.8289,27.0,78,90,9.8,Northern
+cayenne,gf,12.4256,-44.1694,31.0,66,66,1.5,Northern
+inhambane,mz,-22.6481,36.8739,16.67,93,20,2.49,Southern
+ilinge,za,-31.7961,27.0713,3.89,90,0,1.05,Southern
+twin falls,us,41.6476,-114.4561,26.67,29,1,3.6,Northern
+ponta delgada,pt,33.5807,-27.6281,23.0,83,40,4.6,Northern
+lapeer,us,43.6286,-83.2037,33.0,49,40,5.1,Northern
+anadyr,ru,65.611,178.8602,16.0,87,35,6.0,Northern
+delesti,ro,46.6671,27.5242,26.0,83,100,1.5,Northern
+chuy,uy,-60.7593,-22.5611,11.97,76,100,2.83,Southern
+batemans bay,au,-38.4429,150.9035,14.44,97,100,2.24,Southern
+porto-vecchio,fr,41.654,9.1563,27.0,54,0,5.1,Northern
+moose factory,ca,56.0811,-76.5372,31.0,55,20,3.6,Northern
+irbil,iq,36.423,44.1066,33.0,15,0,1.5,Northern
+colac,au,-39.6195,143.898,7.78,99,100,2.05,Southern
+huarmey,pe,-13.2943,-86.3201,19.96,63,2,4.96,Southern
+kavieng,pg,7.9878,152.7039,27.85,79,100,4.69,Northern
+tasiilaq,gl,67.0612,-41.8837,8.0,75,100,3.6,Northern
+roald,no,65.928,4.5426,16.11,87,75,2.6,Northern
+dalhousie,ca,48.5039,-66.2998,22.0,83,90,2.6,Northern
+marshall,us,44.9385,-95.8771,32.22,43,1,2.6,Northern
+stornoway,gb,58.6391,-8.0729,12.22,81,100,10.8,Northern
+boden,se,66.7612,21.6918,16.0,72,0,3.1,Northern
+constitucion,mx,14.972,-122.7093,25.0,47,75,3.6,Northern
+saskylakh,ru,76.9432,117.9554,2.73,95,100,8.88,Northern
+kyra,ru,48.795,113.001,16.67,89,96,1.69,Northern
+richards bay,za,-28.8667,32.4896,17.32,73,0,3.98,Southern
+sambava,mg,-12.1795,56.0894,20.52,88,100,7.13,Southern
+ilebo,cd,-4.2887,20.9034,25.83,34,9,0.71,Southern
+oistins,bb,12.2733,-55.2355,32.0,59,40,8.7,Northern
+nong bua,th,15.623,100.5735,26.98,78,100,2.49,Northern
+lastoursville,ga,-0.8244,12.4863,24.5,79,100,1.5,Southern
+east london,za,-88.8619,59.819,16.0,67,92,8.06,Southern
+wichian buri,th,15.7331,101.2202,26.58,83,100,1.21,Northern
+khatanga,ru,73.1431,107.4063,4.49,86,100,2.66,Northern
+gurkovo,bg,42.5825,25.7375,26.0,50,40,2.1,Northern
+camalu,mx,30.8405,-116.8769,26.67,41,5,2.68,Northern
+buguruslan,ru,53.8319,52.4849,13.31,87,0,1.76,Northern
+lamar,us,39.1248,-102.5089,33.89,59,1,2.6,Northern
+hrubieszow,pl,50.9892,23.8756,18.33,87,93,0.86,Northern
+coffs harbour,au,-29.9066,153.5002,14.0,67,90,5.1,Southern
+soyo,ao,-7.8589,11.5783,22.93,82,0,3.94,Southern
+dakar,sn,13.8747,-19.8783,29.0,70,75,4.1,Northern
+bafata,gw,11.9195,-14.3639,25.37,91,100,3.43,Northern
+bac lieu,vn,5.8796,108.5464,27.53,77,13,1.73,Northern
+tela,hn,16.3567,-87.3385,32.0,70,75,3.1,Northern
+hofn,is,61.402,-15.8995,9.99,69,100,7.43,Northern
+galle,lk,3.8903,77.3123,26.48,87,100,3.62,Northern
+hithadhoo,mv,-1.4547,74.492,27.97,71,100,2.99,Southern
+puerto del rosario,es,28.399,-13.5799,24.0,78,0,8.2,Northern
+aksarka,ru,72.5707,68.429,9.55,85,4,3.86,Northern
+san patricio,mx,17.4892,-106.7489,32.0,75,40,4.1,Northern
+luganville,vu,-15.3761,162.4285,25.0,83,75,2.6,Southern
+kokstad,za,-30.0398,29.03,8.98,87,98,1.43,Southern
+buraydah,sa,25.844,42.7662,39.0,27,0,4.1,Northern
+brae,gb,67.0646,-0.1947,13.0,82,100,2.6,Northern
+nemuro,jp,39.3209,149.0841,13.83,89,100,1.8,Northern
+port lincoln,au,-37.8196,132.8018,11.69,85,0,3.58,Southern
+ateptsevo,ru,55.2196,36.7663,20.0,72,17,2.0,Northern
+contamana,pe,-7.3138,-75.0145,24.38,82,93,1.32,Southern
+shemonaikha,kz,50.7268,81.9958,13.85,82,17,0.51,Northern
+petropavlovsk-kamchatskiy,ru,45.6554,164.0594,13.0,100,67,3.03,Northern
+yar-sale,ru,68.2066,71.3635,10.28,75,52,3.21,Northern
+coquimbo,cl,-28.8118,-73.3386,17.0,59,15,6.2,Southern
+caceres,br,-15.4392,-57.9084,34.03,21,8,1.72,Southern
+murmino,ru,54.5557,40.0224,18.33,53,75,2.42,Northern
+praia,cv,11.8509,-21.4933,28.0,69,40,8.2,Northern
+havre-saint-pierre,ca,52.6334,-63.2353,22.0,68,40,4.1,Northern
+fortuna,us,35.2791,-139.5547,21.67,72,20,5.7,Northern
+severo-kurilsk,ru,35.4369,166.5442,10.44,91,100,7.38,Northern
+norman wells,ca,64.9226,-128.6703,20.0,56,75,4.6,Northern
+vila velha,br,-31.6455,-22.3115,24.0,78,75,3.1,Southern
+aykhal,ru,70.3368,108.75,2.78,85,87,4.78,Northern
+nuuk,gl,61.6597,-55.6763,16.0,55,20,3.6,Northern
+athabasca,ca,58.4437,-112.6856,22.81,48,7,3.73,Northern
+kathu,th,8.3546,96.7821,29.44,94,40,0.5,Northern
+ovsyanka,ru,53.3902,126.9458,16.0,93,40,2.0,Northern
+zihuatanejo,mx,16.8195,-101.8086,34.0,56,40,4.1,Northern
+laguna,br,-43.5807,-31.4661,16.73,73,100,7.8,Southern
+mayenne,fr,48.3496,-0.7064,24.0,44,7,3.6,Northern
+veraval,in,17.8169,68.0326,28.45,82,10,5.14,Northern
+hami,cn,45.7932,92.8392,29.22,20,0,8.13,Northern
+atambua,id,-9.8895,126.7365,19.08,86,50,2.78,Southern
+plouzane,fr,46.791,-5.9757,18.0,88,90,7.2,Northern
+bilibino,ru,68.8775,164.61,21.96,46,16,2.86,Northern
+cabo san lucas,mx,15.8103,-119.3576,36.0,62,5,2.6,Northern
+victor harbor,au,-37.5428,138.0694,11.67,91,0,4.19,Southern
+naze,jp,24.7622,135.9877,28.0,83,100,4.1,Northern
+buenaventura,co,3.6889,-77.082,26.87,87,100,2.8,Northern
+nalut,ly,30.8496,8.9991,32.21,17,0,6.32,Northern
+vardo,no,88.2881,38.6571,14.0,82,96,6.7,Northern
+padang,id,-0.7327,97.6985,25.0,94,40,1.5,Southern
+saint george,bm,33.3852,-54.3882,30.0,62,20,4.6,Northern
+graaff-reinet,za,-32.5478,24.3656,10.56,72,55,1.79,Southern
+antalaha,mg,-14.428,53.6973,19.94,90,100,4.72,Southern
+nacozari,mx,30.4212,-110.1365,34.44,61,63,4.47,Northern
+koslan,ru,65.6522,48.787,16.57,58,2,0.97,Northern
+sidvokodvo,sz,-26.5111,31.5091,13.0,82,0,1.0,Southern
+puerto escondido,mx,8.4066,-98.931,30.0,70,40,3.1,Northern
+axim,gh,2.6049,-2.3472,24.33,80,95,4.29,Northern
+leningradskiy,ru,68.1637,179.9506,21.03,46,39,8.04,Northern
+nanakuli,us,19.2327,-159.6941,28.0,69,75,4.1,Northern
+kaitangata,nz,-69.9663,176.7935,3.89,84,0,1.34,Southern
+lazaro cardenas,mx,12.4343,-105.5624,30.92,59,75,2.01,Northern
+erzin,ru,48.303,94.0945,15.21,57,11,2.1,Northern
+puerto el triunfo,sv,12.3864,-89.1818,32.0,70,40,1.5,Northern
+kristiinankaupunki,fi,62.5471,20.7491,15.44,79,100,3.69,Northern
+lagoa,pt,50.2125,-26.8044,22.75,91,39,5.64,Northern
+vila franca do campo,pt,41.4835,-19.9249,23.0,83,40,4.6,Northern
+ekibastuz,kz,51.9347,74.5857,19.6,52,4,1.92,Northern
+san quintin,mx,28.4245,-118.738,23.51,66,0,5.94,Northern
+katsuura,jp,20.1447,145.4715,25.0,94,94,0.89,Northern
+olafsvik,is,62.3494,-29.8205,10.03,71,46,4.3,Northern
+araguacu,br,-12.202,-50.352,33.17,18,0,3.22,Southern
+nantucket,us,39.1369,-69.3087,26.11,78,40,8.2,Northern
+longhua,cn,29.193,106.9345,26.58,82,100,1.06,Northern
+astara,ir,38.3557,48.8857,25.0,83,0,1.35,Northern
+jingdezhen,cn,29.0879,117.2677,24.97,93,100,0.74,Northern
+kavaratti,in,8.3366,69.835,27.81,80,65,4.63,Northern
+sabha,ly,26.5169,15.6071,31.81,15,0,4.27,Northern
+belaya kholunitsa,ru,59.0533,50.5936,14.3,92,0,1.3,Northern
+yangjiang,cn,20.7251,112.1487,27.47,88,97,3.02,Northern
+souillac,mu,-40.0254,69.1651,21.0,73,75,6.7,Southern
+cockburn town,tc,24.9733,-68.8721,28.27,80,0,7.47,Northern
+komsomolskiy,ru,72.6368,173.6134,22.33,72,58,2.28,Northern
+zhezkazgan,kz,47.084,68.0544,25.47,28,88,4.2,Northern
+pouebo,nc,-19.6453,165.228,20.7,86,15,6.14,Southern
+narsaq,gl,75.7729,-69.482,12.0,66,75,4.1,Northern
+san pedro,bz,18.0304,-86.565,32.0,70,20,4.6,Northern
+knysna,za,-38.1597,22.408,11.0,100,56,2.1,Southern
+xichang,cn,28.8654,99.517,15.89,75,27,0.69,Northern
+bilma,ne,19.7555,12.0369,34.16,16,0,0.54,Northern
+shonguy,ru,68.5252,33.2076,16.0,82,0,2.0,Northern
+beringovskiy,ru,54.2429,177.0768,16.92,68,32,2.61,Northern
+boyuibe,bo,-20.9884,-62.3429,24.1,33,0,5.55,Southern
+mangai,cd,-2.5642,20.1963,25.61,45,0,0.46,Southern
+port hedland,au,-24.5708,119.8498,15.0,22,1,4.1,Southern
+dekar,bw,-22.5238,22.3255,11.46,44,0,2.61,Southern
+blythe,us,33.5612,-114.0211,41.0,13,40,0.71,Northern
+lopukhiv,ua,48.375,23.975,16.29,84,100,0.28,Northern
+ponta do sol,cv,17.6791,-30.2137,29.0,62,40,8.7,Northern
+chemal,ru,51.1828,86.1319,12.54,81,0,0.73,Northern
+rezh,ru,57.4088,61.4218,11.38,83,48,1.46,Northern
+muros,es,44.6894,-11.0651,23.89,64,0,2.24,Northern
+alice springs,au,-21.2895,135.4684,3.0,74,0,2.1,Southern
+havelock,us,30.7957,-72.9205,32.22,59,17,4.47,Northern
+qarqin,af,36.9272,66.2667,31.63,17,0,5.46,Northern
+guerrero negro,mx,24.1791,-119.6608,26.09,51,0,6.35,Northern
+medyn,ru,54.8865,35.8847,17.0,93,27,2.28,Northern
+itambe,br,-15.5266,-40.6009,22.15,82,70,2.88,Southern
+salzhemmendorf,de,52.0005,9.5245,20.0,61,3,0.89,Northern
+talnakh,ru,74.9086,88.4498,7.0,93,86,8.0,Northern
+oriximina,br,-1.0436,-55.705,33.53,40,13,3.21,Southern
+khandbari,np,28.1159,87.2901,23.82,77,65,0.05,Northern
+lubao,cd,-5.8579,25.7721,24.76,28,58,1.32,Southern
+quelimane,mz,-20.8064,39.9319,20.0,82,0,1.5,Southern
+aklavik,ca,69.2708,-136.6872,17.0,72,75,2.6,Northern
+tazovskiy,ru,70.8107,76.8307,8.19,73,72,5.47,Northern
+barcelona,ve,10.0305,-64.8486,28.61,73,18,3.18,Northern
+san policarpo,ph,13.751,130.8526,26.8,81,27,1.26,Northern
+bambous virieux,mu,-22.9129,63.9028,21.11,73,75,7.2,Southern
+matagami,ca,52.4253,-77.3335,26.0,74,40,4.1,Northern
+shelburne,ca,42.8563,-64.9578,32.0,49,40,4.6,Northern
+ibipeba,br,-11.6011,-42.6303,25.99,43,92,5.51,Southern
+paka,my,5.3815,104.5268,27.0,83,100,2.6,Northern
+isiro,cd,3.6643,26.6852,19.77,97,100,1.02,Northern
+el tigre,ve,8.9479,-64.4549,31.32,55,92,4.07,Northern
+kulhudhuffushi,mv,7.0522,68.0043,27.86,74,98,3.33,Northern
+ulaanbaatar,mn,48.9169,107.0713,14.0,87,20,2.0,Northern
+yakymivka,ua,46.725,35.0864,21.45,82,100,4.44,Northern
+esmeraldas,ec,2.5216,-80.42,27.0,65,75,1.5,Northern
+ostrovnoy,ru,73.6036,44.6436,15.54,75,98,2.08,Northern
+abu dhabi,ae,22.9337,54.1525,36.0,60,96,2.6,Northern
+gondar,et,12.4098,36.4595,13.5,97,100,0.59,Northern
+khoy,ir,38.6221,44.4858,28.46,19,0,2.22,Northern
+nhulunbuy,au,-12.6294,139.4611,24.0,57,40,5.7,Southern
+arvika,se,59.4023,12.7942,16.67,93,100,4.1,Northern
+mitsamiouli,km,-8.959,45.7011,24.87,72,84,2.71,Southern
+santiago del estero,ar,-27.5311,-63.3754,22.07,22,0,7.13,Southern
+atbasar,kz,51.7794,68.5224,14.65,90,78,3.68,Northern
+plavsk,ru,53.7974,37.3839,17.43,80,1,2.91,Northern
+nueve de julio,ar,-35.9449,-61.3708,18.33,32,0,4.92,Southern
+kumluca,tr,34.7927,29.6485,27.89,58,0,0.39,Northern
+saint-pierre,pm,35.4198,-51.7235,15.0,100,90,7.2,Northern
+nyurba,ru,67.2695,118.7873,9.19,93,39,0.92,Northern
+verkhnyaya inta,ru,66.1184,61.4604,13.24,72,1,2.88,Northern
+udachnyy,ru,68.3877,115.155,4.8,81,99,7.2,Northern
+kalianget,id,-6.2906,115.0568,25.27,75,97,4.49,Southern
+sungaipenuh,id,-5.8178,96.2219,16.98,94,49,1.22,Southern
+ongandjera,na,-17.0652,14.7799,18.43,28,0,4.02,Southern
+goundi,td,10.1031,17.736,22.37,95,99,1.13,Northern
+tuy hoa,vn,12.8187,110.9923,25.92,87,13,2.81,Northern
+arman,ru,56.7325,149.6465,11.93,85,26,0.85,Northern
+abalak,ne,15.2417,6.504,36.86,25,1,0.73,Northern
+angoche,mz,-17.6501,41.9822,21.38,73,28,1.29,Southern
+faanui,pf,-11.4501,-152.1169,25.6,83,55,7.05,Southern
+kovdor,ru,67.218,30.8077,13.31,87,100,2.6,Northern
+fairbanks,us,64.9564,-147.6226,17.0,82,90,1.23,Northern
+kabare,cd,-2.3302,27.6536,16.86,65,3,0.43,Southern
+catuday,ph,17.9398,117.2992,27.33,77,64,2.62,Northern
+honningsvag,no,80.3384,26.2268,21.0,49,17,7.2,Northern
+kasongo-lunda,cd,-6.647,16.7162,24.53,24,100,0.67,Southern
+asosa,et,10.1157,33.789,16.66,98,100,1.43,Northern
+alghero,it,40.1848,6.3799,27.0,51,0,2.6,Northern
+kolondieba,ml,11.2782,-6.5728,25.8,82,100,2.2,Northern
+tingi,tz,-11.6047,35.7938,12.23,90,48,0.54,Southern
+bitkine,td,12.481,18.1331,26.99,68,100,3.81,Northern
+kota bahru,my,6.7832,103.623,26.0,88,20,1.5,Northern
+saint-georges,gf,8.0201,-43.346,31.0,62,75,3.1,Northern
+kisangani,cd,-0.8717,26.7214,23.29,86,97,1.01,Southern
+half moon bay,us,32.4613,-132.1193,22.78,77,40,2.6,Northern
+mutoko,zw,-17.6839,32.4735,11.14,65,0,2.72,Southern
+uruzgan,af,33.3181,67.4994,21.45,23,0,1.21,Northern
+mercedes,ar,-28.9811,-57.4451,17.78,40,34,7.15,Southern
+camana,pe,-19.2507,-74.9625,17.95,66,16,3.59,Southern
+gigmoto,ph,16.2314,127.9549,27.15,80,65,0.36,Northern
+kimbe,pg,-7.1448,151.8363,23.78,88,99,1.84,Southern
+rio gallegos,ar,-50.2944,-69.8836,2.0,80,20,5.1,Southern
+auki,sb,-7.5169,162.7066,25.27,86,96,1.58,Southern
+port hawkesbury,ca,41.1844,-59.6188,20.0,94,90,2.6,Northern
+opunake,nz,-39.5689,172.914,5.56,84,0,1.96,Southern
+san vicente,ar,-34.8017,-58.6072,20.21,47,100,1.47,Southern
+afsin,tr,38.4644,36.9427,23.45,39,0,1.83,Northern
+kodiak,us,47.8984,-159.109,15.0,67,90,5.1,Northern
+grand gaube,mu,-11.6023,64.4218,21.11,71,100,4.92,Southern
+zhanakorgan,kz,43.3916,67.1874,27.01,24,0,4.51,Northern
+pingliang,cn,35.6829,105.8102,20.58,26,0,2.9,Northern
+ankazoabo,mg,-22.5656,45.0674,15.2,57,0,1.58,Southern
+sabang,id,7.5117,92.8568,27.44,79,100,5.01,Northern
+bauchi,ng,9.3377,10.1066,23.93,88,91,3.0,Northern
+vorkuta,ru,67.274,64.0394,9.22,85,0,3.49,Northern
+paamiut,gl,65.3457,-46.5783,7.77,90,8,0.16,Northern
+churapcha,ru,62.1844,132.517,12.69,78,0,1.89,Northern
+port-gentil,ga,-3.2772,2.8747,24.0,88,75,5.63,Southern
+tromso,no,72.527,19.483,19.0,48,14,12.3,Northern
+nishihara,jp,19.0688,134.6306,28.0,83,40,3.1,Northern
+sindi,in,20.9667,78.8765,26.0,88,40,2.19,Northern
+salta,ar,-25.7027,-64.9134,23.0,17,0,1.5,Southern
+saurimo,ao,-9.8449,19.6092,20.08,28,0,2.69,Southern
+tikhvin,ru,59.8706,33.4128,14.75,94,0,1.62,Northern
+cherskiy,ru,85.5835,163.6874,22.55,43,28,5.93,Northern
+itoman,jp,21.4249,128.8254,28.0,83,75,5.7,Northern
+ajdabiya,ly,28.6991,18.6846,24.74,82,0,5.28,Northern
+svetlogorsk,ru,66.7651,90.1539,22.0,68,75,4.0,Northern
+pacifica,us,33.3762,-133.5026,21.11,64,20,4.1,Northern
+bathsheba,bb,14.9437,-56.1867,32.0,59,40,8.7,Northern
+fukue,jp,30.7488,127.3975,26.37,87,100,4.95,Northern
+sile,tr,41.0355,29.4527,24.44,73,0,1.9,Northern
+kieta,pg,-4.0006,157.5046,26.5,75,100,2.4,Southern
+labuhan,id,-9.7765,101.1771,22.93,84,33,2.86,Southern
+gazipur,bd,23.7266,90.7347,30.0,70,20,3.6,Northern
+piney green,us,33.621,-76.8567,33.33,55,75,5.1,Northern
+hasaki,jp,32.7533,151.772,24.0,94,75,3.6,Northern
+san felipe,ve,10.436,-68.7493,27.14,83,100,2.1,Northern
+chifeng,cn,43.9313,118.3425,19.81,70,93,1.7,Northern
+hambantota,lk,1.629,85.8833,27.0,78,90,1.5,Northern
+hobyo,so,3.4568,49.9813,25.69,76,1,10.11,Northern
+tambacounda,sn,13.3551,-13.014,33.0,59,40,3.1,Northern
+praya,id,-11.7235,116.8851,22.0,88,40,1.23,Southern
+deputatskiy,ru,66.5328,139.6025,12.36,81,0,2.14,Northern
+marawi,sd,20.6131,31.5872,36.27,13,97,3.74,Northern
+bom jesus,br,-9.98,-43.8465,32.76,25,0,4.28,Southern
+rochegda,ru,63.1046,44.0003,15.91,77,97,0.86,Northern
+luderitz,na,-33.0669,2.7306,17.0,72,0,6.2,Southern
+skelleftea,se,64.1843,20.8587,17.78,63,0,3.1,Northern
+the valley,ai,20.099,-63.4101,31.0,66,75,6.7,Northern
+berlevag,no,76.8738,30.9179,18.0,71,18,3.6,Northern
+north platte,us,41.8122,-101.5438,23.89,78,90,5.1,Northern
+plettenberg bay,za,-45.0448,23.579,13.07,70,58,1.75,Southern
+cap malheureux,mu,-16.1341,54.9449,21.11,71,100,4.92,Southern
+minas,uy,-33.8392,-55.5592,16.11,48,100,5.1,Southern
+karasjok,no,69.5796,26.0321,19.0,63,89,9.8,Northern
+dingle,ie,47.9846,-19.2627,15.0,87,75,2.6,Northern
+santa rosa,bo,-12.897,-66.6014,26.54,45,85,0.82,Southern
+vestmannaeyjar,is,54.3465,-20.718,12.0,81,75,4.1,Northern
+inirida,co,3.816,-65.175,27.37,87,99,1.35,Northern
+jieshi,cn,20.129,115.6539,28.84,82,4,4.25,Northern
+severnyy,ru,70.4674,64.8367,21.0,49,100,3.0,Northern
+cacoal,br,-11.244,-61.2672,35.24,23,0,2.61,Southern
+traverse city,us,45.0906,-84.8868,31.0,66,75,5.1,Northern
+north bend,us,43.2609,-125.77,29.44,60,1,5.1,Northern
+pasighat,in,33.917,96.1878,25.27,83,99,1.32,Northern
+port moresby,pg,-11.94,147.3851,23.55,92,61,2.56,Southern
+namibe,ao,-14.286,11.3453,19.8,79,0,3.4,Southern
+yenagoa,ng,1.5815,5.0285,23.74,94,100,1.99,Northern
+goulburn,au,-34.7121,149.966,11.11,96,100,4.48,Southern
+muli,mv,2.3155,75.4274,28.13,71,100,3.11,Northern
+atherton,au,-17.6118,143.7213,14.44,99,0,2.15,Southern
+belaya gora,ru,68.7056,148.2773,17.4,72,79,4.05,Northern
+loandjili,cg,-4.4674,11.9165,24.0,83,20,2.1,Southern
+ust-nera,ru,65.1755,140.1713,16.04,60,51,3.38,Northern
+florianopolis,br,-28.4269,-44.1308,19.44,55,75,4.1,Southern
+mabaruma,gy,7.9634,-58.7972,27.8,90,92,2.21,Northern
+mao,td,16.2492,14.7987,33.39,40,0,5.18,Northern
+san angelo,us,31.813,-100.9577,32.22,40,75,4.1,Northern
+sisimiut,gl,64.5788,-56.6684,8.17,87,100,2.86,Northern
+savinka,ru,49.5048,47.1154,21.38,43,72,5.12,Northern
+aberdeen,us,45.502,-98.2327,27.78,36,1,3.6,Northern
+bantogon,ph,6.158,123.2097,25.15,80,59,1.25,Northern
+sorland,no,72.1115,5.4903,19.0,55,58,1.5,Northern
+virginia beach,us,35.3552,-73.154,35.56,59,75,3.6,Northern
+kaliua,tz,-5.3111,31.5414,20.26,34,0,1.66,Southern
+zharkent,kz,44.2423,79.2746,23.99,40,64,1.26,Northern
+usinsk,ru,66.644,57.1616,15.89,76,0,5.1,Northern
+severo-yeniseyskiy,ru,64.0509,92.9123,8.51,95,85,0.54,Northern
+trelew,ar,-43.7654,-65.5797,7.0,75,90,1.5,Southern
+voskresenskoye,ru,56.5086,45.4365,14.52,83,0,2.19,Northern
+rosetta,eg,33.4125,29.7387,27.0,74,0,5.1,Northern
+puertollano,es,38.3706,-4.2559,38.33,8,0,1.72,Northern
+ahome,mx,25.5658,-110.0792,35.0,36,40,5.1,Northern
+pinawa,ca,51.0642,-94.9249,24.15,45,0,6.56,Northern
+kilindoni,tz,-7.9244,41.1747,25.05,75,52,9.47,Southern
+poum,nc,-22.0187,158.1158,22.8,79,3,8.13,Southern
+goiatuba,br,-18.2297,-49.6669,27.86,31,0,4.33,Southern
+burnie,au,-44.6234,141.7142,9.44,86,100,1.34,Southern
+amantea,it,39.1818,16.1037,26.0,74,0,2.6,Northern
+marystown,ca,42.0033,-53.0667,15.07,97,100,6.18,Northern
+zapolyarnyy,ru,67.7477,61.9473,20.0,52,16,2.6,Northern
+bolivar,us,37.8568,-93.6775,32.22,59,13,3.6,Northern
+soledade,br,-29.1863,-52.3738,14.84,78,100,1.97,Southern
+koulikoro,ml,13.0359,-7.3557,28.62,63,11,3.02,Northern
+tougan,bf,12.8179,-3.2341,30.06,57,11,3.19,Northern
+samarai,pg,-14.0892,153.1139,25.9,86,96,3.0,Southern
+claveria,ph,19.0427,121.0335,26.57,76,100,1.58,Northern
+geraldton,au,-31.4298,102.038,11.0,87,0,5.7,Southern
+northam,au,-29.901,116.7575,18.0,72,0,3.1,Southern
+dharchula,in,29.9627,81.2419,21.78,75,98,0.49,Northern
+kamaishi,jp,37.7273,145.1706,19.8,92,100,1.32,Northern
+madulao,ph,13.5564,122.3436,26.68,82,80,0.57,Northern
